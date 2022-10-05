@@ -4,6 +4,7 @@
 * Наставник: [Николай Думчев](https://htmlacademy.ru/profile/nikopol-fw).
 
 ---
+<img src="https://user-images.githubusercontent.com/96042722/194116631-9ab327f0-3d90-450a-9567-f035eb19eb63.svg" width="100px" height="100px" alt="package icon"/>
 
 <a href="https://htmlacademy.ru/intensive/javascript"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/javascript/logo-for-github-2.png"></a>
 
